@@ -36,7 +36,7 @@ function Footer() {
             <div className='mb-6 lg:mb-0'>
               <Link href='/' className='flex w-fit items-center'>
                 <p className='self-center whitespace-nowrap text-3xl font-medium'>
-                  Elyzen
+                  YaeKirua
                 </p>
               </Link>
               <p className='font-karla text-[0.7rem] lg:w-[520px] lg:text-[0.8rem]'>
@@ -100,13 +100,13 @@ function Footer() {
           <span className='ms-5 sm:text-center lg:ms-0'>
             © {year}{' '}
             <Link href='/' className='hover:text-white'>
-              Elyzen
+              YaeKirua
             </Link>{' '}
-            | Made by <span className='font-bold'>codeblitz97</span>
+            | Made by <span className='font-bold'>YaeKirua</span>
           </span>
           <div className='mt-4 flex lg:mt-0 lg:justify-center'>
             <Link
-              href='https://github.com/codeblitz97/elyzen'
+              href=''
               target='_blank'
               className=' ms-5 hover:text-gray-900 dark:hover:text-white lg:ms-0'
             >
